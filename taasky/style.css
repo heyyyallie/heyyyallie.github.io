@@ -1,0 +1,35 @@
+html, 
+body,
+.container { 
+	height: 100%;
+	margin: 0; 
+}
+
+body {
+	background: #52596B url(img/stripes.png) top repeat-x;
+}
+
+.container {
+	background: url(img/background.jpg) 0 13px no-repeat;
+	max-width: 1374px;
+	margin: 0 auto;
+	padding: 0 40px;
+}
+
+#logo {
+	margin: 200px 0 0;
+}
+
+hr {
+	border-top: 3px solid;
+	border-color: #fd6e6e;
+	width: 40px;
+	margin: 40px 0;
+}
+
+.sub-heading {
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	color: #fff;
+}
