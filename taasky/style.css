@@ -10,9 +10,9 @@ body {
 }
 
 .container {
-	background: url(img/background.jpg) 0 13px no-repeat;
+	background: url(img/background.jpg) top no-repeat;
 	max-width: 1374px;
-	margin: 0 auto;
+	margin: 13px auto 0;
 	padding: 0 40px;
 }
 
