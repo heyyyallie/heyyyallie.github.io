@@ -157,3 +157,9 @@ a.read-more {
 
 
 
+/* 400px */
+@media only screen and (max-width: 520px) {
+	.post { width: 100%; }
+	.menu-wrapper { font-size: .5em; }
+}
+
